@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(233, 232, 232);
+}
+.container {
+    max-width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+.button {
+    margin: 100px 50px 30px 50px;
+    padding: 10px 10px;
+    display: block;
+    height: 30px;
+    width: 200px;
+    text-align: center;
+    line-height: 30px;
+    align-items: center;
+    background-color: rgb(95, 93, 93);
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(167, 61, 61);
+    border-radius: 10px;
+    cursor: pointer;
+}
+input {
+    color: rgb(9, 58, 42);
+    font-size: 15px;
+    height: 30px;
+    font-weight: bold;
+    border: 3px solid;
+    border-color: black;
+}
